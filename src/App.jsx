@@ -266,7 +266,7 @@ function Projects() {
       imgName: 'swp.jpg'
     },
     {
-      name: 'Sam Warr Web Development Business Website',
+      name: 'Sam Warr Web Development Website',
       url: 'https://samwarr.dev',
       imgName: 'swwd.jpg'
     },
