@@ -270,6 +270,11 @@ function Projects() {
       url: 'https://samwarr.dev',
       imgName: 'swwd.jpg'
     },
+    {
+      name: 'FieroWiki - Wiki of the Pontiac Fiero',
+      url: 'https://fierowiki.samwarr.dev',
+      imgName: 'fw.jpg'
+    },
     // Add new projects here
   ];
 
