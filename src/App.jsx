@@ -257,17 +257,17 @@ function Projects() {
   const projects = [
     {
       name: 'RootRevolution Seed Crowdfunding',
-      url: 'https://rootrevolution.store',
+      url: 'https://rootrevolution.samwarr.dev',
       imgName: 'rr.jpg'
     },
     {
       name: 'SCSS Personal Portfolio',
-      url: 'https://old.sam-warr.com',
+      url: 'https://old.samwarr.dev',
       imgName: 'swp.jpg'
     },
     {
       name: 'Sam Warr Web Development Business Website',
-      url: 'https://samwarrwebdev.com',
+      url: 'https://samwarr.dev',
       imgName: 'swwd.jpg'
     },
     // Add new projects here
